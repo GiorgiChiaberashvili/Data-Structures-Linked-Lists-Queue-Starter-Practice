@@ -1,3 +1,5 @@
+Linked List Project
+
 Learning Goals
 Compare and contrast the properties and operations of Arrays and Linked Lists
 Identify the mechanics and complexity of adding and removing elements from a Linked List
